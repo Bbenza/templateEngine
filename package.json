@@ -1,0 +1,22 @@
+{
+  "name": "templateegine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.0.3",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

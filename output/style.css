@@ -1,0 +1,35 @@
+
+
+/* .jumbotron {
+  margin-top: 32px;
+  border: thin #00c851 solid;
+  box-shadow: #00c851 1px 1px 5px 1px;
+
+} */
+
+.card {
+  border: 1px solid navy;
+  background: lightgreen;
+  color: black;
+  font-weight: bold;
+  width: 18rem;
+  margin: 20px;
+  display: flex;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.nameBlock {
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 11px;
+}
+
+h1 {
+  background: green;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
